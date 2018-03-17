@@ -20,7 +20,8 @@
   "dependencies": {
     "@types/node": "^7.0.33",
     "@types/es6-shim": "^0.31.34",
-    "rxjs": "^5.4.1"
+    "rxjs": "^5.4.1",
+    "request": "2.85.*"
   },
   "devDependencies": {
     "@types/jasmine": "^2.5.53",
